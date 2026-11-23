@@ -1,0 +1,19 @@
+{
+  "name": "MY LINE 4.0 - 나만의 식단 코치",
+  "short_name": "MY LINE",
+  "description": "식단, 운동, 영양제, 컨디션 관리",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#31815a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
